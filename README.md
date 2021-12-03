@@ -1,10 +1,28 @@
-- 👋 Hi, I’m varun
-- 👀 I’m interested in machine learning , web devlopment
-- 🌱 I’m currently learning computer science in vit,vellore
-- 💞️ I’m looking to collaborate on machine learning projects
-- To connect:
-- https://www.linkedin.com/in/chikkala-varun-659b44190
+
+
 <!---
 tago893/tago893 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<html>
+  <head>
+    <h1>  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Hi there </h1>
+  </head>
+  
+  <body>
+    <div>
+   <p>
+ - 👋 Hi, I’m varun 
+   </p>
+  <p>
+  - 👀 I’m interested in machine learning , web devlopment</p>
+  <p>
+ - 🌱 I’m currently learning computer science in vit,vellore
+ </p>
+ <p>
+ - 💞️ I’m looking to collaborate on machine learning projects
+</p>
+  </div>
+  
+  </body>
+ </html>
