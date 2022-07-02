@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <html>
   <head>
-    <h1>  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Hi there </h1>
+    <h1>  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">, Hi there </h1>
   </head>
   
   <body>
