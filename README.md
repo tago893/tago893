@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
   <p>
   - 👀 I’m interested in machine learning</p>
   <p>
- - 🌱 I’m currently learning computer science in vit,vellore
+ - 🌱 I’m currently pursuing my B.tech computer science in vit,vellore
  </p>
  <p>
  - 💞️ I’m looking to collaborate on machine learning projects
