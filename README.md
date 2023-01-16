@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
  - 👋 Hi, I’m varun 
    </p>
   <p>
-  - 👀 I’m interested in machine learning , web devlopment</p>
+  - 👀 I’m interested in machine learning</p>
   <p>
  - 🌱 I’m currently learning computer science in vit,vellore
  </p>
