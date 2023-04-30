@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
  - 💞️ I’m looking to collaborate on machine learning projects
 </p>
   </div>
-  [![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tago893&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=VARUN CHIKKALA&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display:flex;flex-direction:row;">
     </div>
   </body>
