@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
   <p>
   - 👀 I’m interested in machine learning</p>
   <p>
- - 🌱 I’m currently pursuing my B.tech computer science in vit,vellore
+ - 🌱 I’m currently pursuing my Masters in computer science at Portland state university
  </p>
  <p>
  - 💞️ I’m looking to collaborate on machine learning projects
