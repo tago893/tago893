@@ -1,15 +1,15 @@
-## Hey, I'm Varun 👋
+## Hi, I'm Varun 👋
 
-I love building software that does the boring work for you, and lately that means AI agents that learn a task once and handle it from then on.
+I like building backend systems and tools that take repetitive work off people's hands. Right now I'm working on LLM agents that can operate old web apps.
 
-### Things I've built
+### Projects
 
-- **Computer-Use Automation**: teach an LLM a task once, then replay it forever with no LLM at all *(in progress)*
-- **[APIverse](https://github.com/sriramnurani1995/APIverse)**: every API a student project needs, in one place
-- **[Image Retrieval](https://github.com/tago893/image-retrieval)**: show it a picture and it finds the lookalikes ([try it](https://image-retrieval-jwdpxketfpngmusvgxw8rg.streamlit.app/))
+- **Computer-Use Automation** *(in progress)*: an LLM works out a task in a web app once and saves the steps. After that, the steps run again without the LLM.
+- **[APIverse](https://github.com/sriramnurani1995/APIverse)**: APIs for student projects (weather, gradebook, placeholder text and images) behind one API key.
+- **[Image Retrieval](https://github.com/tago893/image-retrieval)**: image search on Caltech101 with ResNet-50 embeddings and FAISS ([demo](https://image-retrieval-jwdpxketfpngmusvgxw8rg.streamlit.app/))
 <!-- slot 4 -->
 <!-- slot 5 -->
 
-### Tools I reach for
+### Tools
 
 [![Skills](https://skillicons.dev/icons?i=py,java,js,fastapi,flask,django,spring,pytorch,docker,gcp,aws,postgres,git,linux&perline=7)](https://skillicons.dev)
