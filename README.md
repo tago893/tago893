@@ -4,7 +4,7 @@ I like building backend systems and tools that take repetitive work off people's
 
 ### Projects
 
-- **Computer-Use Automation** *(in progress)*: an AI agent learns a web workflow once, and each successful run becomes a reusable automation that replays without the LLM. Every action goes through safety checks, and a person can take over the live session when it gets stuck. Built plan-first with Claude Code.
+- [Computer-Use Automation](https://github.com/tago893/computer-use-automation) *(in progress)*: an AI agent learns a web workflow once, and each successful run becomes a reusable automation that replays without the LLM. Every action goes through safety checks, and a person can take over the live session when it gets stuck. Built plan-first with Claude Code.
 - **[APIverse](https://github.com/sriramnurani1995/APIverse)**: APIs for student projects (weather, gradebook, placeholder text and images) behind one API key.
 - **[Image Retrieval](https://github.com/tago893/image-retrieval)**: image search on Caltech101 with ResNet-50 embeddings and FAISS ([demo](https://drive.google.com/file/d/1Pl253aIzEFZfKjVgUFRxP5UihIdrSMQt/view?usp=sharing))
 - **[Abnormal File Hub](https://github.com/tago893/abnormal-file-hub-main)**: file storage app (Django + React) that stores each unique file only once, using SHA-256 hashes
