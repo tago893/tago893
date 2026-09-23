@@ -13,3 +13,5 @@ I like building backend systems and tools that take repetitive work off people's
 ### Tools
 
 [![Skills](https://skillicons.dev/icons?i=py,java,js,fastapi,flask,django,spring,pytorch,docker,gcp,aws,postgres,git,linux&perline=7)](https://skillicons.dev)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
