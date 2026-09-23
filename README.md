@@ -1,6 +1,6 @@
 ## Hi, I'm Varun 👋
 
-I like building backend systems and tools that take repetitive work off people's hands. Right now I'm working on LLM agents that can operate old web apps.
+I like building backend systems and tools that take repetitive work off people's hands. I'm skilled in backend development, I understand how LLMs work internally, and I build LLM apps with LangChain and similar frameworks. Right now I'm working on LLM agents that can operate old web apps.
 
 ### Projects
 
